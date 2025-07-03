@@ -3,57 +3,86 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gon-jpg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gon-jpg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gon-jpg&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gon-jpg&layout=compact&langs_count=5&theme=dracula&locale=en" height="150" alt="Top languages" />
 </div>
 
 ###
+
+<img align="right" height="150" src="https://media.tenor.com/suspytVqEIcAAAAM/java-my-beloved.gif" alt="Java gif" />
+
 ###
 
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+<div align="left" style="line-height: 1.6; font-size: 16px; max-width: 700px;">
+
+I am an enthusiastic and dedicated Apprentice Software Engineer passionate about building efficient, scalable, and user-friendly applications.
+
+**About me:**  
+I'm currently an Apprentice working for Zühlke Engineering AG. That's how I got into software engineering and working with computers is my passion.
+
+### What I’m learning and working on:
+- 🌱 Currently mastering **Java** and its ecosystem.
+- 💻 Building projects using **React**, **Node.js**, and **TypeScript**.
+- 🗄️ Working with relational databases like **PostgreSQL** and **MySQL**.
+- 🐳 Exploring containerization with **Docker**.
+
+### Current goals:
+- I'm planning to develop my own phone and make it open-source.
+- Strengthen my knowledge in the computer science area.
+- Become an Oracle Certified Associate.
+
+### Interests:
+- I love making my own projects and they mostly involve coding or making my own hardware.
+- I'm interested in anything that has to do with privacy on the internet.
+  
+Feel free to check out my projects and reach out if you want to connect or collaborate!
+
 </div>
 
 ###
+
+<div align="left" style="margin-top: 20px;">
+  <strong>Technologies I've worked with in the past:</strong><br />
+  <br>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="30" alt="Arduino" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="Bash" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="C" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="Docker" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="Figma" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="MySQL" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="Postman" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+</div>
+
 ###
 
-<br clear="both">
+###
 
-<p align="left">
-  - 🌱 I’m currently learning <b>Java</b><br/>
-  - 👨‍💻 All of my projects are available at <a href="https://github.com/Gon-jpg?tab=repositories">https://github.com/Gon-jpg?tab=repositories</a><br/>
-  - 💬 Ask me about <b>Java, React, PostgreSQL, etc.</b><br/>
+<br clear="both" />
+
+<p align="left" style="font-size: 16px; line-height: 1.6; max-width: 700px;">
+  - 👨‍💻 All of my projects are available at <a href="https://github.com/Gon-jpg?tab=repositories" target="_blank" rel="noopener noreferrer">https://github.com/Gon-jpg?tab=repositories</a><br />
+  - 💬 Ask me about <b>Java, React, PostgreSQL, and more</b><br />
   - 📫 How to reach me: <b>goncalo.dealmeida@noseryoung.com</b>
 </p>
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
