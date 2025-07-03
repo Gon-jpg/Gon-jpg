@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Gonçalo and I'm an Apprentice Software Engineer.</h2>
 
 ###
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gon-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="gon-jpg" /> </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gon-jpg&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150" alt="GitHub stats" />
